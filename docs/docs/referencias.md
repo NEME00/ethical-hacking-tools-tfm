@@ -1,4 +1,4 @@
-# 📚 Referencias – Herramientas utilizadas en el TFM de Hacking Ético (2025)
+# Referencias – Herramientas utilizadas en el TFM de Hacking Ético (2025)
 
 Este documento recoge todas las herramientas empleadas en el TFM, categorizadas según su funcionalidad. Las referencias provienen principalmente del repositorio de recursos del máster:
 
@@ -6,7 +6,7 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🔍 1. OSINT (Recopilación de Información)
+## 1. OSINT (Recopilación de Información)
 
 - [Infooze](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/recopilacion-de-informacion/osint/herramientas-genericas#infooze)
 - [The Spy's Job](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/recopilacion-de-informacion/osint/herramientas-genericas#the-spys-job)
@@ -22,7 +22,7 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🌐 2. Recopilación Activa / Enumeración
+## 2. Recopilación Activa / Enumeración
 
 - [Shodan](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/recopilacion-de-informacion/osint/herramientas-genericas#shodan)
 - [The Harvester](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/recopilacion-de-informacion/osint/herramientas-genericas#the-harvester)
@@ -38,7 +38,7 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🕳️ 3. Fuzzing / Fuerza bruta
+## 3. Fuzzing / Fuerza bruta
 
 - [Gobuster](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/fuzzing/gobuster)
 - [Gobuster (Subdominios)](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/recopilacion-de-informacion/recopilacion-activa/subdominios-activa#gobuster-subdominios)
@@ -48,14 +48,14 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🕷️ 4. Crawling y Escaneo Web
+## 4. Crawling y Escaneo Web
 
 - [OWASP ZAP](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/crawling/herramientas-de-crawling#owasp-zap)
 - [FFUF (Crawling)](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/recopilacion-de-informacion/crawling/herramientas-de-crawling#ffuf)
 
 ---
 
-## 💥 5. Explotación de vulnerabilidades
+## 5. Explotación de vulnerabilidades
 
 - [sqlmap](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/explotacion-de-vulnerabilidades/explotacion-en-web/sql-injection/sqlmap)
 - [bettercap](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/explotacion-de-vulnerabilidades/explotacion-en-redes/hacking-wifi/redes-basicas#bettercap)
@@ -66,7 +66,7 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🛡️ 6. Análisis de vulnerabilidades
+## 6. Análisis de vulnerabilidades
 
 - [OpenVAS](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/analisis-de-vulnerabilidades/herramientas-de-analisis#openvas)
 - [Nessus](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/analisis-de-vulnerabilidades/herramientas-de-analisis#nessus)
@@ -74,7 +74,7 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🔓 7. Ataques a contraseñas y post-explotación
+## 7. Ataques a contraseñas y post-explotación
 
 - [John the Ripper](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/explotacion-de-vulnerabilidades/explotacion-en-hosts/password-attacks/cracking-de-contrasenas#john-the-ripper)
 - [Lazagne](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/post-explotacion/post-explotacion/lazagne)
@@ -85,6 +85,6 @@ Este documento recoge todas las herramientas empleadas en el TFM, categorizadas 
 
 ---
 
-## 🧪 8. Análisis forense
+## 8. Análisis forense
 
 - [Virus Total](https://afsh4ck.gitbook.io/ethical-hacking-cheatsheet/post-explotacion/post-explotacion/forense-digital/analisis-de-malware#analisis-con-virustotal)
